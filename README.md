@@ -1,1 +1,2 @@
-Hello! If you read this, you probably entered the dark side of github. You know what I'm talking about right? Also, if you want to talk to me, my discord is Minecraftgamer#2848 so come, dont be shy!
+Im a front end developer who can think outside the box. I like to think that front end development is like game development, it has a start and a finish, and the site itslef has
+a theme to it (like a game).
